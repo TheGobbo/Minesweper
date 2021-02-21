@@ -6,7 +6,7 @@ to play it on Linux download the executable and run sudo chmod +x minado && ./mi
 
 
 
-to compile it yourself download pascal compilator fpc, ans pascal file minado.pas then run fpc minado.pas && ./minado
+to compile it yourself download pascal compiler fpc, ans pascal file minado.pas then run fpc minado.pas && ./minado
 
 
 any problems make an issue 
